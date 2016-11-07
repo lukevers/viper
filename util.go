@@ -21,7 +21,7 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/hashicorp/hcl"
+	"github.com/lukevers/hcl"
 	"github.com/magiconair/properties"
 	toml "github.com/pelletier/go-toml"
 	"github.com/spf13/cast"
